@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Poza", "Poza.pyproj", "{0E49F7A5-0625-4DD7-BB1A-2DAC5EB8A993}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E49F7A5-0625-4DD7-BB1A-2DAC5EB8A993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E49F7A5-0625-4DD7-BB1A-2DAC5EB8A993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {157B549C-201D-49F3-B0DB-4110A2B0A490}
+	EndGlobalSection
+EndGlobal
