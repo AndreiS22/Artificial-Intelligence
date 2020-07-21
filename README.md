@@ -1,2 +1,2 @@
 # Artificial-Intelligence
-AI scripts I made while learning in Octave/Python 
+AI scripts I made in Octave/Python while learning 
